@@ -10,7 +10,7 @@ website:
       - text: "About Us"
         href: aboutus.qmd
       - take-test.qmd
-      - research.qmd 
+      - report.qmd 
 
   page-footer: "Copyright 2025, Vivek Belhekar"
 
