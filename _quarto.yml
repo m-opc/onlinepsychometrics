@@ -7,10 +7,12 @@ website:
     background: primary
     search: true
     left:
+      - home.qmd
       - text: "About Us"
         href: aboutus.qmd
       - take-test.qmd
-      - report.qmd 
+      - research.qmd 
+      
 
   page-footer: "Copyright 2025, Vivek Belhekar"
 

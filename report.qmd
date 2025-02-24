@@ -1,6 +1,4 @@
 ---
-title: "Welcome to Mumbai-Online Psychometrics Centre"
+title: "report"
 format: html
 ---
-
-![](images/MOPC revised logo.jpg){fig-align="center" width="1500"}
