@@ -1,25 +1,19 @@
 ---
-title: "Take a test"
-format: html
+title: "Take A Test"
 ---
 
-## Quarto
+Choose your test from the below languages:
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+# Career Assessments
 
-## Running Code
+## English
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+English: <https://forms.gle/sG3mdR1B9wCBEH32A>
 
-```{r}
-1 + 1
-```
+## Marathi
 
-You can add options to executable code like this
+Marathi Male: <https://forms.gle/33WTkbz24Jnu8eJr6>
 
-```{r}
-#| echo: false
-2 * 2
-```
+Marathi female: <https://forms.gle/Vx1wrrWXhtqsFDPYA>
 
-The `echo: false` option disables the printing of code (only output is displayed).
+By taking a test with M-OPC, you agree to the following TnC: https://docs.google.com/document/d/1juuIRU2JaddQaaA-7Ufa_pyGd_bL0Qh4ZXEYd0Rf8KI/edit?usp=sharing
