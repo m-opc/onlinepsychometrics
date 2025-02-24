@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "About Us"
+        href: aboutus.qmd
+      - take-test.qmd
+      - research.qmd 
+
+  page-footer: "Copyright 2025, Vivek Belhekar"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
