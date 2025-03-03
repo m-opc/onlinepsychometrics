@@ -2,4 +2,4 @@
 title: "Welcome to Mumbai-Online Psychometrics Centre"
 ---
 
-![](images/MOPC revised logo-02.jpg){fig-align="center"}
+![](images/MOPC%20revised%20logo-02.jpg){fig-align="center"}

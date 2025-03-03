@@ -4,16 +4,14 @@ title: "Take A Test"
 
 Choose your test from the below languages:
 
-# Career Assessments
+# Career Assessments (Personality and Interests)
 
-## English
+Choose your preferred language as per your sex.
 
-English: <https://forms.gle/sG3mdR1B9wCBEH32A>
-
-## Marathi
-
-Marathi Male: <https://forms.gle/33WTkbz24Jnu8eJr6>
-
-Marathi female: <https://forms.gle/Vx1wrrWXhtqsFDPYA>
+| Language | Male | Female | Other |
+|----|----|----|----|
+| English | <https://forms.gle/sG3mdR1B9wCBEH32A> | <https://forms.gle/sG3mdR1B9wCBEH32A> | *Link to be updated shortly* |
+| Marathi | <https://forms.gle/33WTkbz24Jnu8eJr6> | <https://forms.gle/Vx1wrrWXhtqsFDPYA> | *Link to be updated shortly* |
+| Gujrati | *Link to be updated shortly* | *Link to be updated shortly* | *Link to be updated shortly* |
 
 By taking a test with M-OPC, you agree to the following TnC: https://docs.google.com/document/d/1juuIRU2JaddQaaA-7Ufa_pyGd_bL0Qh4ZXEYd0Rf8KI/edit?usp=sharing
