@@ -2,11 +2,11 @@
 title: "Take A Test"
 ---
 
-Choose your test from the below languages:
-
 # Career Assessments (Personality and Interests)
 
 Choose your preferred language as per your sex.
+
+(Note: If you are a college/ university or any other organisation who wants to conduct group assessments for your students or employees, please write to us on vivek\@psychology.mu.ac.in)
 
 | Language | Male | Female | Other |
 |----|----|----|----|
