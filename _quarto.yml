@@ -14,7 +14,7 @@ website:
       - research.qmd 
       
 
-  page-footer: "Copyright 2025, Vivek Belhekar"
+  page-footer: "Made with Quarto | Copyright 2025, Vivek Belhekar"
 
 format:
   html:
