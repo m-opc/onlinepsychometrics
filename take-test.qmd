@@ -2,4 +2,4 @@
 title: "Take A Test"
 ---
 
-# Visit https://m-opc.in to take a test
+#  [Click here](https://m-opc.in) to take a test (Or type <https://m-opc.in> in your browser)
